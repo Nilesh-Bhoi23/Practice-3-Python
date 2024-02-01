@@ -10,5 +10,5 @@
 4)  Write function which takes input lists of persons ages and
  seperates adults and child ages
 <br>
-## List Comprehension
+-- List Comprehension
 basics Examples solves
